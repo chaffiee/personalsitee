@@ -1,0 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Mr+Dafoe);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,300);
+
+body{
+  background-image: url(http://getwallpapers.com/wallpaper/full/6/1/e/550866.jpg);
+}
+
+body{
+color: white;
+  text-align: center;
+  list-style-position: inside;
+  font-family: "Roboto", sans-serif
+}
+h1{
+  position: absolute;
+  margin: 0px;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 50px;
+  color: #F975F7 ;
+  transform: rotate(-5);
+  margin-left: 400px;
+  margin-top: -12px;
+  -webkit-text-stroke: 1px #f008b7;
+  -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
+  z-index: 20;
+}
+p.intro{
+  font-style: oblique;
+  font-size: 20px;
+  border-style: groove;
+}
+p.picture{
+  font-style: oblique;
+  text-decoration: underline;
+  font-size: 18px;
+}
+p.who{
+  font-style: oblique;
+   color: #FF00FF;
+   font-size: 25px;
+   border-style: dotted;
+}
+p.pitch{
+  font-family: 'Open Sans', sans-serif;
+  color: #555;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 80px;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1;
+  text-shadow: #EDEDED 3px 2px 0;
+  position: relative;
+
+}
+p.hobby{
+  position: absolute;
+  margin: 0px;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 50px;
+  color: #F975F7 ;
+  transform: rotate(-5);
+  margin-left: 150px;
+  margin-top: -12px;
+  -webkit-text-stroke: 1px #f008b7;
+  -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
+  z-index: 20;
+}
+ul.hob {
+  list-style: none;
+}
+li.hobby{
+
+  background-color: black;
+   width: 150px;
+   border: 5px solid;
+   padding: 15px;
+   margin: 15px;
+ float: right;
+
+}
+ul {
+list-style-type: none;
+padding:0 ;
+margin: 0;
+font-size: 15px;
+}
+p.opinion {
+  position: absolute;
+  margin: 0px;
+  font-family: 'Mr Dafoe', cursive;
+  font-size: 50px;
+  color: #F975F7 ;
+  transform: rotate(-5);
+  margin-left: 100px;
+  margin-top: 50px;
+  -webkit-text-stroke: 1px #f008b7;
+  -webkit-filter: drop-shadow(2px 2px 20px #f008b7);
+  z-index: 20;
+}
+li.emoji {
+background: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/129/thinking-face_1f914.png") no-repeat left top;
+background-size: 25px;
+background-position: bottom;
+margin-left: 400px;
+height: 54px;
+padding-right: 300px;
+}
+ li.emoji {
+   background-color: lightgrey;
+    width: 200px;
+    border: 5px solid;
+    padding: 25px;
+    margin: 25px;
+float: right;
+   }
